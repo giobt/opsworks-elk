@@ -203,7 +203,7 @@ Resources:
       UseOpsworksSecurityGroups: false
       CustomCookbooksSource:
         Type: git
-        Url: "https://github.com/tetrascience/ts-devops-opsworks.git"
+        Url: "https://github.com/giobt/opsworks-elk.git"
       ConfigurationManager:
         Name: Chef
         Version: "12"
